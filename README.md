@@ -1,2 +1,2 @@
-# hangmanJS
-A project hangman created in mainly JavaScript
+# HangmanJS
+A project Hangman created in mainly JavaScript
